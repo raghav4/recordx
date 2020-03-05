@@ -1,0 +1,27 @@
+body {
+  font-family: 'Sofia Pro Medium';
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+}
+
+@font-face {
+  font-family: 'Sofia Pro Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Sofia Pro Medium'), url('../assets/Sofia\ Pro\ Medium\ Az.woff') format('woff');
+}
+
+button {
+  font-family: 'Sofia Pro Medium';
+}
+
+h1 {
+  font-family: 'Sofia Pro Medium';
+  font-weight: normal;
+  font-size: 42px
+}
+
+.btn-space {
+  margin-right: 5px;
+}
